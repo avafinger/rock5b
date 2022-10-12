@@ -2,7 +2,7 @@
 
 Firmware and some annotations for Rock 5b Developer Edition for debugging purposes.
 
-# Debian 11
+# Ubuntu 22.04
 
 * Build the kernel
 * Burn the OS Image
