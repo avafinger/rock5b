@@ -13,4 +13,8 @@ Pre-compiled deb packages for Ubuntu 22.04.y
     
     https://github.com/avafinger/rock5b/releases
     
-##  Developer board x  Retail board
+##  Developer board x  Release board
+
+![front](https://github.com/avafinger/rock5b/raw/front.jpg)
+
+![back](https://github.com/avafinger/rock5b/raw/back.jpg)
