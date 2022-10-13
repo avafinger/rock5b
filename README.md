@@ -13,6 +13,9 @@ Pre-compiled deb packages for Ubuntu 22.04.y
     
     https://github.com/avafinger/rock5b/releases
     
+* SDL2
+* OpenCV 4.5.4    
+    
 ##  Developer board x  Release board
 
 ![front](https://github.com/avafinger/rock5b/raw/main/front.jpg)
