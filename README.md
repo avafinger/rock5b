@@ -22,11 +22,12 @@ Pre-compiled deb packages for Debian 11.5
     https://github.com/avafinger/rock5b/releases
     
 * xorg-server
+* SDL2
 
 
 ##  Resources / Credits
 
-* Radxa for sending the dev board with imx415 camera
+* thanks Radxa for sending me the board with imx415 camera
 * https://github.com/radxa
 * https://github.com/avafinger
 * https://github.com/JeffyCN/
