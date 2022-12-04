@@ -16,6 +16,7 @@ Pre-compiled deb packages for Ubuntu 22.04
     
 * SDL2
 * OpenCV 4.5.4    
+* ffmpeg 4.4.2
 
 Pre-compiled deb packages for Debian 11.5
     
@@ -31,6 +32,7 @@ Pre-compiled deb packages for Debian 11.5
 * https://github.com/radxa
 * https://github.com/avafinger
 * https://github.com/JeffyCN/
+* icecream95
  
 
 ##  Developer board x  Pre-Release board
